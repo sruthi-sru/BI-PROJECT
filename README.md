@@ -6,7 +6,7 @@ To create a Dashboard that reflects all relevant Key Performance Indicators (KPI
 
 Possible KPIs to include:
 
-Overall customer satisfaction
+* Overall customer satisfaction
 Overall calls answered/abandoned
 Calls by time
 Average speed of answer

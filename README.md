@@ -14,7 +14,8 @@ Possible KPIs to include:
 
 # Data Visualization
 
-Power BI is used for Data visualization and below figure depicts all the kpi required and Power BI file is also uploaded above.
+Here Power BI tool is used for Data visualization and below figure depicts all the
+kpi required for the basic analysis:
 
 
 

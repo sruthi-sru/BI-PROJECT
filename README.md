@@ -24,3 +24,16 @@ kpi required for the basic analysis:
 
 
 <img width="1210" alt="Screenshot 2023-07-27 at 5 22 54 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/64ce335f-cc14-4f2f-b8e8-a6a1b84487d2">
+
+
+# Calculations used
+
+Average satisfaction rating = Average('Call Center'[Satisfaction rating])
+
+Best performer = 
+
+Average speed of calls = 
+
+'#' of answered = Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Answered (Y/N)]="Y"))
+
+'#' of resolved = Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Resolved]="Y"))

@@ -30,12 +30,12 @@ kpi required for the basic analysis:
 
 Average satisfaction rating = Average('Call Center'[Satisfaction rating])
 
-Best performer = 
+Best performer 
 
 <img width="558" alt="Screenshot 2021-08-21 at 2 00 23 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/6c36ad1a-e2b4-41f7-894e-80452eca33b3">
 
 
-Average speed of calls = 
+Average speed of calls
 
 <img width="361" alt="Screenshot 2021-08-21 at 1 59 37 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/7bef68a7-4a26-4235-b179-9465b3de24c8">
 

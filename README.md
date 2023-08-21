@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-To create a Dashboard that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+To create a Dashboard that reflects all relevant Key Performance Indicators (KPIs) and metrics in the call center dataset.
 
 Possible KPIs to include:
 

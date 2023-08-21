@@ -1,4 +1,4 @@
-# BI-PROJECT Call Center Analysis for PWC
+<img width="361" alt="Screenshot 2021-08-21 at 1 59 37 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/df12edf0-5f09-41cb-976d-f8cb88e2cef8"># BI-PROJECT Call Center Analysis for PWC
 
 # Problem Statement
 
@@ -32,7 +32,13 @@ Average satisfaction rating = Average('Call Center'[Satisfaction rating])
 
 Best performer = 
 
+<img width="558" alt="Screenshot 2021-08-21 at 2 00 23 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/28369a6b-85c7-4ad1-b643-fb2093181b48">
+
+
 Average speed of calls = 
+
+<img width="361" alt="Screenshot 2021-08-21 at 1 59 37 PM" src="https://github.com/sruthi-sru/BI-PROJECT/assets/71058362/28d5a4ef-0cf2-47b6-b16e-7f43c7f8ea2b">
+
 
 Answered calls = Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Answered (Y/N)]="Y")) 
 
